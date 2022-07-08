@@ -2,3 +2,4 @@
 Ciro Rojas
 Luca Gonzalez
 Micaela Bentos
+Maximiliano Escuder
